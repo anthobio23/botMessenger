@@ -2,16 +2,16 @@
 Help center application to buy products available in facebook groups linked to the system.
 
 # Installing nodejs
-    console.log("sudo apt install nodejs")
-    console.log("sudo apt install npm")
+    sudo apt install nodejs
+    sudo apt install npm
 
 # installing packages.
-    console.log("npm install body-parser express nodemon request")
+    npm install body-parser express nodemon request
 
 # Clone repository
-    console.log("git clone https://github.com/anthobio23/botMessenger.git")
+    git clone https://github.com/anthobio23/botMessenger.git
 
 # Use
-    console.log("npm init")
-    console.log("npm install body-parser express nodemon request --save")
-    console.log("npm start")
+    "npm init
+    npm install body-parser express nodemon request --save
+    npm start
